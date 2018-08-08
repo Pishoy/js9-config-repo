@@ -1,0 +1,8 @@
+
+god_token_ = ''
+
+jwt_ = ''
+
+secrets_ = [ ]
+
+url = 'http://127.0.0.1:6600'
