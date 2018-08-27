@@ -1,0 +1,6 @@
+
+network_id = '1c33c1ced064fefe'
+
+sshclient_instance = 'zboot1-ssh7'
+
+zerotier_instance = 'zboot1-zt7'
