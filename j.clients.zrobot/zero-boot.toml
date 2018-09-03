@@ -3,6 +3,9 @@ god_token_ = ''
 
 jwt_ = ''
 
-secrets_ = [ ]
+secrets_ = [
+    'eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzZXJ2aWNlX2d1aWQiOiIwOTM4YTdhMS0xZGM1LTQwYTktYjM1OC04MzNmY2Y3NjIyYzkifQ.YREAfbUpkN7MuF2tJhCrfQUBVeJc-GuWnNtbhsAsseA',
+]
+
 
 url = 'http://localhost:6600'
