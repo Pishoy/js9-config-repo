@@ -1,0 +1,8 @@
+
+god_token_ = ''
+
+jwt_ = ''
+
+secrets_ = [ ]
+
+url = 'http://10.242.6.92:6600'
