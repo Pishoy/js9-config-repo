@@ -1,0 +1,26 @@
+
+addr = '185.238.34.36'
+
+addr_priv = ''
+
+allow_agent = true
+
+clienttype = ''
+
+forward_agent = false
+
+login = 'root'
+
+passwd_ = ''
+
+port = 22
+
+port_priv = 22
+
+proxy = ''
+
+sshkey = 'dmdmconf'
+
+stdout = true
+
+timeout = 10
