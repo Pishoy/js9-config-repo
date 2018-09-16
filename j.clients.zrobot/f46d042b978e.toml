@@ -3,10 +3,6 @@ god_token_ = ''
 
 jwt_ = ''
 
-secrets_ = [
-    'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzZXJ2aWNlX2d1aWQiOiI3MzBkNWE5ZS03M2FmLTQ2NTctOTExMS0wNThjNTYwNjBhYTYifQ.6gpW6bgEp7MX27dlDVjEbylW4CBmwrD9rylat-Ia9Gs',
-    'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzZXJ2aWNlX2d1aWQiOiIyYzY0NTI1NS1hNDNlLTRjN2EtOWJiMi1iMTU0ZmQ2OWE0OGUifQ.Q-InO1Ine6Xi28cX58OrJ6Q781PdeY2lGsF7jQvV4gE',
-]
-
+secrets_ = [ ]
 
 url = 'http://10.242.6.92:6600'
