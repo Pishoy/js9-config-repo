@@ -1,0 +1,12 @@
+
+god_token_ = ''
+
+jwt_ = ''
+
+secrets_ = [
+    'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzZXJ2aWNlX2d1aWQiOiJhYjM1NWEwYS05MTczLTQxMWUtYjkyNS02MjIwNjg3MWEyYzYifQ._rrEeeNCVrZRT_61zFGT7GaRjh-AmVI87LwFMnBL9aw',
+    'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzZXJ2aWNlX2d1aWQiOiJlYzQ4NjJjMS0xZWYyLTQxMjUtOTE1Zi02MmQ1MzZiMmM4MzgifQ.iBpfQPCz_9GDF_WMqvRrKgZYJHs2EcmCi5RY2MWh_o4',
+]
+
+
+url = 'http://10.102.21.141:6600'

@@ -3,6 +3,12 @@ god_token_ = ''
 
 jwt_ = ''
 
-secrets_ = [ ]
+secrets_ = [
+    'eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzZXJ2aWNlX2d1aWQiOiI5YzBlNDJiNS0zYWVlLTRhYjMtODgyMy1hM2QxMDdmNDc4MTkifQ.xRSktwSzXF-HNoJtstYubB3ONS2mf9cua1rkY14U77g',
+    'eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzZXJ2aWNlX2d1aWQiOiIzNmVjMDNlMC02NjYyLTRkZDAtYThlMC1kYjFmNWE3NTU5OWYifQ.vUDt0NV5rvkjHGmPUCH4t_IfzyUbK2aKl1xNrnZ-I74',
+    'eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzZXJ2aWNlX2d1aWQiOiJlMGZhMmUwZi0yOGY3LTQyZGItYjUyYy1jYTAwMzEyYWVmNzQifQ.aCEgTmpB9gFydDvGDYmWJmT37a7yoJLjOIsaBDDkoPQ',
+    'eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzZXJ2aWNlX2d1aWQiOiJlNzc3NTgzMy0xYmFlLTQyZmYtYmM1ZS0xNGMyMmQ3MDk3ZjYifQ.Cd9VfxFzNs1M4U_3yQvNULX0nZzxz8EnfbaqROaGyRY',
+]
+
 
 url = 'http://localhost:6600'
