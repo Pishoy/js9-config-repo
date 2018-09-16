@@ -1,0 +1,11 @@
+
+god_token_ = ''
+
+jwt_ = ''
+
+secrets_ = [
+    'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzZXJ2aWNlX2d1aWQiOiJlYjAzOGZmNS04MzE1LTQ1NmEtYTRmYi02MWY4YzBlY2UyNzcifQ.zC6dDTzxKakIRrImlcfaTPRlT7xEWrMnidmXR6SGgmE',
+]
+
+
+url = 'http://10.102.21.141:6600'
